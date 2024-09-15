@@ -2,7 +2,7 @@ use axum::extract::Query;
 use axum::http::Response;
 use axum::response::IntoResponse;
 use axum::{routing::get, Router};
-use image::{EncodableLayout, ImageBuffer, ImageFormat, Luma};
+use image::{ImageBuffer, ImageFormat, Luma};
 use qrcode::QrCode;
 use serde::Deserialize;
 use std::io::Cursor;

@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    # book
+    "01-getting-started",
+    "02-guessing-game-tutorial",
+    "03-common-programming-concepts",
+    # side projects
+    "qrcode-generator-api-rust",
+    "to-do-list-using-sqlite-rust"
+]
+
+resolver = "2"
