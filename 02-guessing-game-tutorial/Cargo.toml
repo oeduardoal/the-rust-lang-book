@@ -1,5 +1,5 @@
 [package]
-name = "guessing-game-rust"
+name = "guessing-game-tutorial"
 version = "0.1.0"
 edition = "2021"
 
